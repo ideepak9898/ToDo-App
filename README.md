@@ -1,6 +1,6 @@
 ## ToDo-List
 
-## [https://todo-apps4daily.netlify.app/] (https://todo-apps4daily.netlify.app/)
+## [https://todo-apps4daily.netlify.app/](https://todo-apps4daily.netlify.app/)
 
 ## Installation
 
