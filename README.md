@@ -1,6 +1,6 @@
 ## ToDo-List
 
-## Porfolio live at [https://todo-apps4daily.netlify.app/](https://todo-apps4daily.netlify.app/)
+## live at [https://todo-apps4daily.netlify.app/](https://todo-apps4daily.netlify.app/)
 
 ## Installation
 
