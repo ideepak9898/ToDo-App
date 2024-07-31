@@ -1,4 +1,4 @@
-## ToDo-App Using ReactJSs
+## ToDo-App Using ReactJS
 
 ## Live at [https://todo-apps4daily.netlify.app/](https://todo-apps4daily.netlify.app/)
 
