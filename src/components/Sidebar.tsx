@@ -178,7 +178,7 @@ export const ProfileSidebar = () => {
         >
           <Logo src={logo} alt="logo" />
           <LogoText>
-            <span>Deep</span> App
+            <span>ToDo</span> App
             <span>.</span>
           </LogoText>
         </LogoContainer>
