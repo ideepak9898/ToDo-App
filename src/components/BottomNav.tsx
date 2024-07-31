@@ -151,7 +151,7 @@ const StyledBottomNavigation = styled(BottomNavigation)<{ glow: boolean }>`
   background: ${({ theme, glow }) => `${theme.palette.secondary.main}${glow ? "c8" : "e6"}`};
   backdrop-filter: blur(20px);
   margin: 0px 20px 0px -20px;
-  padding: 18px 10px 32px 10px;
+  padding: 18px 10px 15px 10px;
   transition: 0.3s background, color;
 `;
 
